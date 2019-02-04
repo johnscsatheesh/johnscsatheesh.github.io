@@ -1,4 +1,0 @@
-This is a Brave Payments publisher verification file.
-
-Domain: farzanfa.me
-Token: 50ef752e704a96b6fe3a2c234d4c5e3e53748ef602fb209f28548ce315c7e87a
